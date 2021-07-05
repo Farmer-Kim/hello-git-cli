@@ -2,4 +2,8 @@ hello git
 second
 third - my bracnh
 fourth - my bracnh
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 633f917 (새로운 기능 1 추가)
